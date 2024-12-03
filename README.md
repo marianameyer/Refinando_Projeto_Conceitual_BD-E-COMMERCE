@@ -7,10 +7,10 @@ O esquema deverá ser adicionado a um repositório do Github para futura avalia�
 # 2.Modelos:
 
 # 2.1.Ordem de Serviço:
-Criação de um banco de dados simples de uma solicitação de ordem de serviço.
+Criação de um banco de dados simples de uma solicitação de ordem de serviço. Os clientes de uma empresa fazem solicitações ao *helpdesk* que são convertidas em ordens de serviço. Assim que a OS é cadastrada, um técnico avalia a solicitação e envia ao responsável. Assim que concluída, a OS é arquivada.
 
 # 2.2.Universidade:
-Criação de um banco de dados universitário, relacionando alunos, professores e disciplinas ofertadas.
+Criação de um banco de dados universitário, relacionando alunos, professores e disciplinas ofertadas. 
 
 # 2.3.E-Commerce:
 Refine o modelo de e-commerce apresentado acrescentando os seguintes pontos:
